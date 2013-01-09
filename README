@@ -2,5 +2,5 @@
 
 
 ##Note: do not deploy this!
-1) There should only be one running instance of this application. Please do not run it if you are not a Tor developer.
-2) This is not necessarily an up-to-date fork.
+1) This is not an up-to-date fork.
+2) There should only be one running instance of TorWeather. Please do not run it if you are not a Tor developer.
